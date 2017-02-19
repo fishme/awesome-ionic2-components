@@ -1,10 +1,10 @@
 # Awesome Ionic2 Components
 
-For me is Ionic2 one of the best Angular2 UI Frameworks for Mobile Apps in combination with Apache Cordova. This list contains no tutorials, external help pages, tips and tricks. 
+For me Ionic2 is one of the best Angular2 UI Frameworks for Mobile Apps in combination with Apache Cordova. This list contains no tutorials, external help pages, tips and tricks. 
 
 This list is only filled  with real components and tools that you can use immediately. So enjoy it!
 
-Should help you to get awesome components and plugins for Ionic2. It contains of course also a lot of Angular2 stuff.
+It should help you to get awesome components and plugins for Ionic2. It contains of course also a lot of Angular2 stuff.
 
 **Legend**
 
