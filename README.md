@@ -49,6 +49,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Video/Audio
 * [Video Editor](https://github.com/rossmartin/video-editor-ionic2)
 * [Audio Recorder](https://github.com/tracktunes/ionic-recorder)
+* [Simple Audioplayer](https://github.com/arielfaur/ionic-audio)
 
 ### Keyboards
 * [Digit Keyboard](https://github.com/skol-pro/ion-digit-keyboard-v2)
@@ -62,6 +63,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Github Auth](https://auth0.com/authenticate/ionic2/github)
 * [PouchDB](https://github.com/ashteya/ionic2-tutorial-pouchdb)
 * [Wordpress](https://github.com/scottopolis/ionic2-wp-api)
+* [Amazon - AWS](https://github.com/vbudilov/aws-cognito-ionic2)
 
 ## Boilerplate
 * [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate)
@@ -88,3 +90,5 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Geo Fence](https://github.com/tsubik/ionic2-geofence)
 * [Image Gallery](https://github.com/driftyco/ionic-image-gallery-app)
 * [Real-World App](https://github.com/seeschweiler/iongithub)
+* [Bwitter - Twitter](https://github.com/obetomuniz/ionic2-bwitter)
+* [NFC App](https://github.com/RedFroggy/ionic2-nfc-app)
