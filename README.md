@@ -75,7 +75,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk)
 * [Microsoft Emotion API](https://github.com/lazyc97/emo-clash)
 
-### PIPI
+### PIPE
 * [Filtering Array](https://github.com/VadimDez/ng2-filter-pipe)
 * [Pipe Collection (around 20 pips for strings etc)](https://github.com/danrevah/ngx-pipes)
 
