@@ -38,7 +38,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 * [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) (A2) 
 * [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) (A2)
-*
+* [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) (A2)
 
 ### Images
 * [Image Fallback](https://github.com/VadimDez/ng2-img-fallback) (A2)
@@ -48,6 +48,9 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Image Viewer](https://github.com/Riron/ionic-img-viewer)
 * [Gallery Modal](https://github.com/nikini/ionic-gallery-modal)
 
+### Charts/Diagram
+* [Charts](https://github.com/valor-software/ng2-charts)
+
 ### Video/Audio
 * [Video Editor](https://github.com/rossmartin/video-editor-ionic2)
 * [Audio Recorder](https://github.com/tracktunes/ionic-recorder)
@@ -55,6 +58,9 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Keyboards
 * [Digit Keyboard](https://github.com/skol-pro/ion-digit-keyboard-v2)
+
+### Frames
+* [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning)
 
 ## API
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs)
@@ -68,6 +74,10 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Amazon - AWS](https://github.com/vbudilov/aws-cognito-ionic2)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk)
 * [Microsoft Emotion API](https://github.com/lazyc97/emo-clash)
+
+### PIPI
+* [Filtering Array](https://github.com/VadimDez/ng2-filter-pipe)
+* [Pipe Collection (around 20 pips for strings etc)](https://github.com/danrevah/ngx-pipes)
 
 ## Boilerplate/Demo Apps
 * [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate)
