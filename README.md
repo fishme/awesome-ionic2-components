@@ -20,7 +20,8 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Scrollabel Tabs](https://github.com/SinoThomas/Ionic2-ScrollableTabs)
 * [Circular Tabs](https://github.com/SinoThomas/Ionic2-CircularTabs)
 * [Fab Toolbar](https://github.com/ekhmoi/fab-toolbar)
-
+* [Multi Level Sidemenu](https://github.com/sebaferreras/Ionic2-MultiLevelSideMenu)
+* [Popover Sidemenu](https://github.com/philipbrack/ionic2-menu-alternative-popover)
 
 ### Form / Input
 * [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete)
@@ -28,11 +29,15 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) (A2) 
 * [Form Builder](https://github.com/rohitg7/ionic2-form-builder)
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs)
+
+#### Input - Date/Calendar
 * [Calendar](https://github.com/twinssbc/Ionic2-Calendar)
 * [Rating](https://github.com/andrucz/ionic2-rating)
-* [Datepicker](https://github.com/misha130/datepicker-ionic2)
-* [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar)
 * [Inputfield Mask](https://github.com/text-mask/text-mask)
+* a) [Datepicker](https://github.com/misha130/datepicker-ionic2)
+* b) [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar)
+* c) [Datepicker](https://github.com/rajeshwarpatlolla/ionic2-datepicker)
+
 
 ### Lists/Table
 
@@ -50,6 +55,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Charts/Diagram
 * [Charts](https://github.com/valor-software/ng2-charts)
+* [D3 Service](https://github.com/tomwanzek/d3-ng2-service)
 
 ### Video/Audio
 * [Video Editor](https://github.com/rossmartin/video-editor-ionic2)
@@ -58,6 +64,9 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Keyboards
 * [Digit Keyboard](https://github.com/skol-pro/ion-digit-keyboard-v2)
+
+### Dialog
+* [Dialogbox with Counter](https://github.com/HsuanXyz/ionic2-extend-alert)
 
 ### Frames
 * [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning)
@@ -74,16 +83,20 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Amazon - AWS](https://github.com/vbudilov/aws-cognito-ionic2)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk)
 * [Microsoft Emotion API](https://github.com/lazyc97/emo-clash)
+* [Pokémons API](https://github.com/loiane/ionic2-pokedex) (Pokémons - that is't a joke)
 
-### PIPE
+### Pipe
 * [Filtering Array](https://github.com/VadimDez/ng2-filter-pipe)
 * [Pipe Collection (around 20 pips for strings etc)](https://github.com/danrevah/ngx-pipes)
+
 
 ## Boilerplate/Demo Apps
 * [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate)
 * [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example)
 * [Update your App](https://github.com/NextFaze/ionic-manup)
 * [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app)
+* [Fullscreen Content](https://github.com/sebaferreras/Ionic2-FullscreenContent)
+* [Card Layout](https://github.com/joshuamorony/ionic2-card-layout)
 
 ## Build Stuff
 
@@ -110,3 +123,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Real-World App](https://github.com/seeschweiler/iongithub)
 * [Bwitter - Twitter](https://github.com/obetomuniz/ionic2-bwitter)
 * [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic)
+* [Timer App](https://github.com/imjohnbo/ionic2-timer)
