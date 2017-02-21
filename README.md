@@ -31,6 +31,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Calendar](https://github.com/twinssbc/Ionic2-Calendar)
 * [Rating](https://github.com/andrucz/ionic2-rating)
 * [Datepicker](https://github.com/misha130/datepicker-ionic2)
+* [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar)
 * [Inputfield Mask](https://github.com/text-mask/text-mask)
 
 ### Lists/Table
@@ -65,15 +66,21 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [PouchDB](https://github.com/ashteya/ionic2-tutorial-pouchdb)
 * [Wordpress](https://github.com/scottopolis/ionic2-wp-api)
 * [Amazon - AWS](https://github.com/vbudilov/aws-cognito-ionic2)
+* [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk)
+* [Microsoft Emotion API](https://github.com/lazyc97/emo-clash)
 
-## Boilerplate
+## Boilerplate/Demo Apps
 * [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate)
+* [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example)
+* [Update your App](https://github.com/NextFaze/ionic-manup)
+* [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app)
 
 ## Build Stuff
 
 * [Ionic App Script](https://github.com/driftyco/ionic-app-scripts)
 
 ## Projects
+* [Restaurant App](https://github.com/srehanuddin/Ionic2-ResturantApp)
 * [Conference App](https://github.com/driftyco/ionic-conference-app)
 * [Realty](https://github.com/ccoenraets/ionic2-realty)
 * [Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat)
@@ -92,4 +99,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Image Gallery](https://github.com/driftyco/ionic-image-gallery-app)
 * [Real-World App](https://github.com/seeschweiler/iongithub)
 * [Bwitter - Twitter](https://github.com/obetomuniz/ionic2-bwitter)
-* [NFC App](https://github.com/RedFroggy/ionic2-nfc-app)
+* [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic)
