@@ -31,13 +31,16 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs)
 
 #### Input - Date/Calendar
-* [Calendar](https://github.com/twinssbc/Ionic2-Calendar)
-* [Rating](https://github.com/andrucz/ionic2-rating)
-* [Inputfield Mask](https://github.com/text-mask/text-mask)
+* **Calendar**
+* a) [Calendar](https://github.com/twinssbc/Ionic2-Calendar)
+* b) [Calendar](https://github.com/alexandretok/easy-ionic2-calendar)
+* c) [Calendar](https://github.com/redpandatronicsuk/ionic2calendar)
+* **Datepicker**
 * a) [Datepicker](https://github.com/misha130/datepicker-ionic2)
 * b) [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar)
 * c) [Datepicker](https://github.com/rajeshwarpatlolla/ionic2-datepicker)
-
+* [Rating](https://github.com/andrucz/ionic2-rating)
+* [Inputfield Mask](https://github.com/text-mask/text-mask)
 
 ### Lists/Table
 
