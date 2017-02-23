@@ -32,14 +32,16 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 #### Input - Date/Calendar
 * **Calendar**
-* a) [Calendar](https://github.com/twinssbc/Ionic2-Calendar)
-* b) [Calendar](https://github.com/alexandretok/easy-ionic2-calendar)
-* c) [Calendar](https://github.com/redpandatronicsuk/ionic2calendar)
+* a) [Calendar](https://github.com/twinssbc/Ionic2-Calendar)  (I2)
+* b) [Calendar](https://github.com/alexandretok/easy-ionic2-calendar) (I2)
+* c) [Calendar](https://github.com/redpandatronicsuk/ionic2calendar) (I2)
+* d) [Calendar](https://github.com/mattlewis92/angular-calendar) (very powerful) (A2)
+* e) [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar)
 * **Datepicker**
-* a) [Datepicker](https://github.com/misha130/datepicker-ionic2)
-* b) [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar)
-* c) [Datepicker](https://github.com/rajeshwarpatlolla/ionic2-datepicker)
-* [Rating](https://github.com/andrucz/ionic2-rating)
+* a) [Datepicker](https://github.com/misha130/datepicker-ionic2)  (I2)
+* b) [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) (I2)
+* c) [Datepicker](https://github.com/rajeshwarpatlolla/ionic2-datepicker) (I2)
+* [Rating](https://github.com/andrucz/ionic2-rating)  (I2)
 * [Inputfield Mask](https://github.com/text-mask/text-mask)
 
 ### Lists/Table
