@@ -60,7 +60,10 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Charts/Diagram
 * [Charts](https://github.com/valor-software/ng2-charts)
+* **D3 Approaches**
 * [D3 Service](https://github.com/tomwanzek/d3-ng2-service)
+* [D3 Barchart](https://github.com/keathmilligan/angular2-d3-v4)
+* [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example)
 
 ### Video/Audio
 * [Video Editor](https://github.com/rossmartin/video-editor-ionic2)
@@ -89,6 +92,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk)
 * [Microsoft Emotion API](https://github.com/lazyc97/emo-clash)
 * [Pokémons API](https://github.com/loiane/ionic2-pokedex) (Pokémons - that is't a joke)
+* [Codepush & Ionic2](https://github.com/ksachdeva/ionic2-code-push)
 
 ### Pipe
 * [Filtering Array](https://github.com/VadimDez/ng2-filter-pipe)
@@ -102,6 +106,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app)
 * [Fullscreen Content](https://github.com/sebaferreras/Ionic2-FullscreenContent)
 * [Card Layout](https://github.com/joshuamorony/ionic2-card-layout)
+* [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate)
 
 ## Build Stuff
 
