@@ -107,6 +107,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Fullscreen Content](https://github.com/sebaferreras/Ionic2-FullscreenContent)
 * [Card Layout](https://github.com/joshuamorony/ionic2-card-layout)
 * [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate)
+* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components)
 
 ## Build Stuff
 
