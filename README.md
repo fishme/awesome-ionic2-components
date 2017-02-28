@@ -109,6 +109,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Card Layout](https://github.com/joshuamorony/ionic2-card-layout) ![](ionic.png)
 * [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate) ![](ionic.png)
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ![](ionic.png)
+* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js)
 
 ## Build Stuff
 * [Ionic App Script](https://github.com/driftyco/ionic-app-scripts) ![](ionic.png)
