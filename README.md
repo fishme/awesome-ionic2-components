@@ -86,11 +86,11 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ![](angular.png)
 * [Github Auth](https://auth0.com/authenticate/ionic2/github) ![](ionic.png)
-* [PouchDB](https://github.com/ashteya/ionic2-tutorial-pouchdb)
+* [PouchDB](https://github.com/ashteya/ionic2-tutorial-pouchdb) ![](ionic.png)
 * [Wordpress](https://github.com/scottopolis/ionic2-wp-api) ![](ionic.png)
-* [Amazon - AWS](https://github.com/vbudilov/aws-cognito-ionic2)
-* [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk)
-* [Microsoft Emotion API](https://github.com/lazyc97/emo-clash)
+* [Amazon - AWS](https://github.com/vbudilov/aws-cognito-ionic2) ![](ionic.png)
+* [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ![](angular.png)
+* [Microsoft Emotion API](https://github.com/lazyc97/emo-clash) ![](ionic.png)
 * [Pokémons API](https://github.com/loiane/ionic2-pokedex) ![](ionic.png) (Pokémons - that is't a joke)
 * [Codepush & Ionic2](https://github.com/ksachdeva/ionic2-code-push) ![](ionic.png)
 * [SQL Interface](https://github.com/seand88/ionic2-sql-interface) ![](ionic.png)
@@ -111,7 +111,6 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ![](ionic.png)
 
 ## Build Stuff
-
 * [Ionic App Script](https://github.com/driftyco/ionic-app-scripts) ![](ionic.png)
 
 ## Projects
