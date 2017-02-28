@@ -96,8 +96,8 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [SQL Interface](https://github.com/seand88/ionic2-sql-interface) ![](ionic.png)
 
 ### Pipe
-* [Filtering Array](https://github.com/VadimDez/ng2-filter-pipe)
-* [Pipe Collection (around 20 pips for strings etc)](https://github.com/danrevah/ngx-pipes)
+* [Filtering Array](https://github.com/VadimDez/ng2-filter-pipe) ![](angular.png)
+* [Pipe Collection (around 20 pips for strings etc)](https://github.com/danrevah/ngx-pipes) ![](angular.png)
 
 
 ## Boilerplate/Demo Apps
