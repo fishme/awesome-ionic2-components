@@ -57,6 +57,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Facebook Gallery](https://github.com/skyfloyd/ionic2-fb-gallery) ![](ionic.png)
 * [Image Viewer](https://github.com/Riron/ionic-img-viewer) ![](ionic.png)
 * [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) ![](ionic.png)
+* [Image Zoom](https://github.com/brtnshrdr/angular2-image-zoom) ![](angular.png)
 
 ### Charts/Diagram
 * [Charts](https://github.com/valor-software/ng2-charts) ![](angular.png)
