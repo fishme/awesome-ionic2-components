@@ -92,7 +92,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Amazon - AWS](https://github.com/vbudilov/aws-cognito-ionic2) ![](ionic.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ![](angular.png)
 * [Microsoft Emotion API](https://github.com/lazyc97/emo-clash) ![](ionic.png)
-* [Pokémons API](https://github.com/loiane/ionic2-pokedex) ![](ionic.png) (Pokémons - that is't a joke)
+* [Pokémons API](https://github.com/loiane/ionic2-pokedex) ![](ionic.png) (Pokémons - no joke!)
 * [Codepush & Ionic2](https://github.com/ksachdeva/ionic2-code-push) ![](ionic.png)
 * [SQL Interface](https://github.com/seand88/ionic2-sql-interface) ![](ionic.png)
 
