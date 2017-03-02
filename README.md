@@ -32,15 +32,15 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 #### Input - Date/Calendar
 * **Calendar**
-* a) [Calendar](https://github.com/twinssbc/Ionic2-Calendar)  ![](ionic.png)
-* b) [Calendar](https://github.com/alexandretok/easy-ionic2-calendar) ![](ionic.png)
-* c) [Calendar](https://github.com/redpandatronicsuk/ionic2calendar) ![](ionic.png)
-* d) [Calendar](https://github.com/mattlewis92/angular-calendar) ![](angular.png) (very powerful) 
-* e) [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar) ![](angular.png)
+   * [Calendar](https://github.com/twinssbc/Ionic2-Calendar)  ![](ionic.png)
+   * [Calendar](https://github.com/alexandretok/easy-ionic2-calendar) ![](ionic.png)
+   * [Calendar](https://github.com/redpandatronicsuk/ionic2calendar) ![](ionic.png)
+   * [Calendar](https://github.com/mattlewis92/angular-calendar) ![](angular.png) (very powerful) 
+   * [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar) ![](angular.png)
 * **Datepicker**
-* a) [Datepicker](https://github.com/misha130/datepicker-ionic2)  ![](ionic.png)
-* b) [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) ![](ionic.png)
-* c) [Datepicker](https://github.com/rajeshwarpatlolla/ionic2-datepicker) ![](ionic.png)
+   * [Datepicker](https://github.com/misha130/datepicker-ionic2)  ![](ionic.png)
+   * [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) ![](ionic.png)
+   * [Datepicker](https://github.com/rajeshwarpatlolla/ionic2-datepicker) ![](ionic.png)
 * [Rating](https://github.com/andrucz/ionic2-rating)  ![](ionic.png)
 * [Inputfield Mask](https://github.com/text-mask/text-mask)
 
@@ -98,7 +98,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Pipe
 * [Filtering Array](https://github.com/VadimDez/ng2-filter-pipe) ![](angular.png)
-* [Pipe Collection (around 20 pips for strings etc)](https://github.com/danrevah/ngx-pipes) ![](angular.png)
+* [Pipe Collection (around 20 pipes for strings etc)](https://github.com/danrevah/ngx-pipes) ![](angular.png)
 
 
 ## Boilerplate/Demo Apps
