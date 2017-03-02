@@ -62,9 +62,9 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Charts/Diagram
 * [Charts](https://github.com/valor-software/ng2-charts) ![](angular.png)
 * **D3 Approaches**
-* [D3 Service](https://github.com/tomwanzek/d3-ng2-service) ![](angular.png)
-* [D3 Barchart](https://github.com/keathmilligan/angular2-d3-v4) ![](angular.png)
-* [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example) ![](angular.png)
+  * [D3 Service](https://github.com/tomwanzek/d3-ng2-service) ![](angular.png)
+  * [D3 Barchart](https://github.com/keathmilligan/angular2-d3-v4) ![](angular.png)
+  * [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example) ![](angular.png)
 
 ### Video/Audio
 * [Video Editor](https://github.com/rossmartin/video-editor-ionic2) ![](ionic.png)
