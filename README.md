@@ -51,6 +51,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ![](angular.png)
 
 ### Images
+* [Signatur](https://github.com/wulfsolter/angular2-signaturepad) ![](angular.png) works perfect with ![](ionic.png) 
 * [Image Fallback](https://github.com/VadimDez/ng2-img-fallback) ![](angular.png)
 * [Lazy Load](https://github.com/tjoskar/ng2-lazyload-image) ![](ionic.png) ![](angular.png)
 * [Image Loader](https://github.com/zyramedia/ionic-image-loader) ![](ionic.png)
