@@ -139,3 +139,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Bwitter - Twitter](https://github.com/obetomuniz/ionic2-bwitter) ![](ionic.png)
 * [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ![](ionic.png)
 * [Timer App](https://github.com/imjohnbo/ionic2-timer) ![](ionic.png)
+* [Component Examples](https://github.com/yannbf/ionic3-components) ![](ionic.png)
