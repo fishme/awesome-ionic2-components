@@ -117,7 +117,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Ionic App Script](https://github.com/driftyco/ionic-app-scripts) ![](ionic.png)
 
 ## Projects
-* [App Evangelist](https://github.com/fishme/app-evangelist.com) my own Homepage/App with [getdirectus.com](getdirectus.com)  (in progress)
+* [App Evangelist](https://github.com/fishme/app-evangelist.com) my own Homepage/App with [getdirectus.com](getdirectus.com)  (in progress) ![](ionic.png)
 * [mHUD - Car App](https://github.com/paulcockrell/mHUD) ![](ionic.png) Speed tracking
 * [Restaurant App](https://github.com/srehanuddin/Ionic2-ResturantApp) ![](ionic.png)
 * [Conference App](https://github.com/driftyco/ionic-conference-app) ![](ionic.png)
