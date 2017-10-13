@@ -29,6 +29,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ![](angular.png) 
 * [Form Builder](https://github.com/rohitg7/ionic2-form-builder) ![](ionic.png)
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ![](ionic.png)
+* [Tags Input](https://github.com/HsuanXyz/ionic-tags-input) ![](ionic.png)
 
 #### Input - Date/Calendar
 * **Calendar**
@@ -74,12 +75,16 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Keyboards
 * [Digit Keyboard](https://github.com/skol-pro/ion-digit-keyboard-v2) ![](ionic.png)
+* [Pincode Keyboard](https://github.com/HsuanXyz/ionic2-pincode-input) ![](ionic.png)
 
 ### Dialog
 * [Dialogbox with Counter](https://github.com/HsuanXyz/ionic2-extend-alert) ![](ionic.png)
 
 ### Frames
 * [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning) ![](angular.png)
+
+### Picker
+* [Multi Picker](https://github.com/raychenfj/ion-multi-picker) ![](ionic.png)
 
 ## API
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs) ![](ionic.png) ![](angular.png)
@@ -141,3 +146,5 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ![](ionic.png)
 * [Timer App](https://github.com/imjohnbo/ionic2-timer) ![](ionic.png)
 * [Component Examples](https://github.com/yannbf/ionic3-components) ![](ionic.png)
+* [Chat Examples](https://github.com/HsuanXyz/ionic3-chat) ![](ionic.png)
+* [Indexed Scroll Examples](https://github.com/HsuanXyz/ionic2-indexed-scroll) ![](ionic.png)
