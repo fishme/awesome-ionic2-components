@@ -1,6 +1,6 @@
 # Awesome Ionic2 Components
 
-For me [Ionic2](http://ionicframework.com) is one of the best [Angular2](https://angular.io/) UI Frameworks for Mobile Apps in combination with [Apache Cordova](https://cordova.apache.org/). This list contains no tutorials, external help pages, tips and tricks. 
+For me [Ionic 3](http://ionicframework.com) is one of the best [Angular 4](https://angular.io/) UI Frameworks for Mobile Apps in combination with [Apache Cordova](https://cordova.apache.org/). This list contains no tutorials, external help pages, tips and tricks. 
 
 This list is only filled  with real components and tools that you can use immediately. So enjoy it!
 
