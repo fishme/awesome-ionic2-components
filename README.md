@@ -122,6 +122,9 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ## Build Stuff
 * [Ionic App Script](https://github.com/driftyco/ionic-app-scripts) ![](ionic.png)
 
+## Code Stuff
+* [Redux](https://github.com/angular-redux/store) ![](angular.png)
+
 ## Projects
 * [App Evangelist](https://github.com/fishme/app-evangelist.com) my own Homepage/App with [getdirectus.com](getdirectus.com)  (in progress) ![](ionic.png)
 * [mHUD - Car App](https://github.com/paulcockrell/mHUD) ![](ionic.png) Speed tracking
