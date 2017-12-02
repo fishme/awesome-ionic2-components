@@ -15,6 +15,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Localization
 * [NgTranslate](https://github.com/ngx-translate/core) ![](angular.png)
+* [angular-I10n](https://github.com/robisim74/angular-l10n) ![](angular.png)
 
 ### Menu, Tabs
 * [Scrollabel Tabs](https://github.com/SinoThomas/Ionic2-ScrollableTabs) ![](ionic.png) 
