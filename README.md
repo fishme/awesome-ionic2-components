@@ -61,6 +61,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Image Viewer](https://github.com/Riron/ionic-img-viewer) ![](ionic.png)
 * [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) ![](ionic.png)
 * [Image Zoom](https://github.com/brtnshrdr/angular2-image-zoom) ![](angular.png)
+* [Lazy image loader](https://github.com/tjoskar/ng-lazyload-image) ![](angular.png)
 
 ### Charts/Diagram
 * [Charts](https://github.com/valor-software/ng2-charts) ![](angular.png)
@@ -86,6 +87,13 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Picker
 * [Multi Picker](https://github.com/raychenfj/ion-multi-picker) ![](ionic.png)
+
+## Authentication
+* [Social Login (Facebook, Google, LinkedIn](https://www.npmjs.com/package/angular2-social-login) ![](ionic.png) ![](angular.png)
+* [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ![](ionic.png) ![](angular.png)
+* [Auth with Token](https://github.com/neroniaky/angular2-token) ![](ionic.png) ![](angular.png)
+
+
 
 ## API
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs) ![](ionic.png) ![](angular.png)
