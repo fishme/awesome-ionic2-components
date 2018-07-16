@@ -88,14 +88,14 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Picker
 * [Multi Picker](https://github.com/raychenfj/ion-multi-picker) ![](ionic.png)
 
-## Authentication
+## API
+
+### Authentication
 * [Social Login (Facebook, Google, LinkedIn](https://www.npmjs.com/package/angular2-social-login) ![](ionic.png) ![](angular.png)
 * [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ![](ionic.png) ![](angular.png)
 * [Auth with Token](https://github.com/neroniaky/angular2-token) ![](ionic.png) ![](angular.png)
 
-
-
-## API
+### Others
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs) ![](ionic.png) ![](angular.png)
 * [Firebase Rest API](https://github.com/angular/angularfire2) ![](angular.png)
 * [Google Maps](https://angular-maps.com/) ![](angular.png)
