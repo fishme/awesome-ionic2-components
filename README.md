@@ -94,6 +94,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Social Login (Facebook, Google, LinkedIn](https://www.npmjs.com/package/angular2-social-login) ![](ionic.png) ![](angular.png)
 * [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ![](ionic.png) ![](angular.png)
 * [Auth with Token](https://github.com/neroniaky/angular2-token) ![](ionic.png) ![](angular.png)
+* [Auth with ionic2 SDK](https://github.com/LoginRadius/ionic2-sdk) ![](ionic.png)
 
 ### Others
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs) ![](ionic.png) ![](angular.png)
